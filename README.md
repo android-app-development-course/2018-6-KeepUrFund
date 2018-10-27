@@ -1,7 +1,8 @@
 # 2018-6-KeepUrFund
 [![state](https://img.shields.io/badge/state-in%20development%20-brightgreen.svg)](https://github.com/android-app-development-course/2018-6-KeepUrFund)
 [![license](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/android-app-development-course/2018-6-KeepUrFund/blob/master/LICENSE)
-<br>
+
+
 ## Group members：
 > [胡庆宇](https://github.com/Mccreeeee),   [香文鑫](https://github.com/NothingXiang),   [黎浩](https://github.com/ANLinchen)
 
